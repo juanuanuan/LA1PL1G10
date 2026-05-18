@@ -1,4 +1,7 @@
-Projeto do Jogo "Puzzle" -> Laboratórios de Programacão I.
+# LA1
+# Eval: 11
+
+Puzzle game in C
 
 
 
